@@ -28,6 +28,12 @@
 //  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 
+//
+// This is an adaptation of the work done by Chris Veness (Attribution 3.0 Unported (CC BY 3.0)):
+// Latitude/longitude spherical geodesy formulae & scripts (c) Chris Veness 2002-2010  
+// http://www.movable-type.co.uk/scripts/latlong.html
+//
+
 #import "CLLocation+Navigation.h"
 
 #define degreesToRadians(x) (M_PI * x / 180.0)

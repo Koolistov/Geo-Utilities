@@ -11,6 +11,11 @@ CLLocation+Navigation
 ---------------------
 This category on CLLocation adds method to do distance calculations, as well as calculations to determine the direction (bearing) to follow to go from A to B. The methods are based on the info found at http://www.movable-type.co.uk/scripts/latlong.html.
 
+This is an adaptation of the work done by Chris Veness (Attribution 3.0 Unported (CC BY 3.0)): 
+  Latitude/longitude spherical geodesy formulae & scripts (c) Chris Veness 2002-2010 
+  http://www.movable-type.co.uk/scripts/latlong.html
+
+
 LICENSE
 -------
 Copyright 2010-2011 Koolistov. All rights reserved.
