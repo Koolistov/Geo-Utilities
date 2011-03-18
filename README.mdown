@@ -9,11 +9,12 @@ This category on CLHeading can convert a heading to its textual equivalent, e.g.
 
 CLLocation+Navigation
 ---------------------
-This category on CLLocation adds method to do distance calculations, as well as calculations to determine the direction (bearing) to follow to go from A to B. The methods are based on the info found at http://www.movable-type.co.uk/scripts/latlong.html.
+This category on CLLocation adds method to do distance calculations, as well as calculations to determine the direction (bearing) to follow to go from A to B. The methods are based on the info found at [www.movable-type.co.uk/scripts/latlong.html](http://www.movable-type.co.uk/scripts/latlong.html).
 
 This is an adaptation of the work done by Chris Veness (Attribution 3.0 Unported (CC BY 3.0)): 
-  Latitude/longitude spherical geodesy formulae & scripts (c) Chris Veness 2002-2010 
-  http://www.movable-type.co.uk/scripts/latlong.html
+
+> Latitude/longitude spherical geodesy formulae & scripts (c) Chris Veness 2002-2010 
+> http://www.movable-type.co.uk/scripts/latlong.html
 
 
 LICENSE
@@ -44,8 +45,9 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 AUTHOR
 ------
-Johan Kool is an developer of iOS and Mac OS X (Cocoa and Cocoa touch) software. If you wish to hire me, please look at http://www.koolistov.net/services/
+Johan Kool is an developer of iOS and Mac OS X (Cocoa and Cocoa touch) software. If you wish to hire me, please look at [www.koolistov.net/services](http://www.koolistov.net/services/).
 
-- Thanks!
+-- Thanks!
 
-   Johan
+Johan
+
