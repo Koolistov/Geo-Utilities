@@ -13,8 +13,8 @@ This category on CLLocation adds method to do distance calculations, as well as 
 
 This is an adaptation of the work done by Chris Veness (Attribution 3.0 Unported (CC BY 3.0)): 
 
-> Latitude/longitude spherical geodesy formulae & scripts (c) Chris Veness 2002-2010 
-> http://www.movable-type.co.uk/scripts/latlong.html
+> Latitude/longitude spherical geodesy formulae & scripts (c) Chris Veness 2002-2010  
+> [http://www.movable-type.co.uk/scripts/latlong.html](http://www.movable-type.co.uk/scripts/latlong.html)
 
 
 LICENSE
