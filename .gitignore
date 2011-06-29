@@ -1,0 +1,8 @@
+build
+**/*.pbxuser
+**/*.perspective*
+**/*.mode*
+.DS_Store
+
+**/xcuserdata
+**/**/xcuserdata
