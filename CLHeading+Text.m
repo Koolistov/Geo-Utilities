@@ -60,7 +60,7 @@
     double binSize = 360.0 / (4.0 * level);
 
     // Determine bin
-    long int bin = lround(direction / binSize);
+    long int bin = round(direction / binSize);
 
     // Adjust bin for level
     switch (level) {
